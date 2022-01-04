@@ -1,0 +1,8 @@
+C:\Users\Admin\Downloads\ConsoleCalculator-master\ConsoleCalculator\ConsoleCalculator\bin\Debug\ConsoleCalculator.exe.config
+C:\Users\Admin\Downloads\ConsoleCalculator-master\ConsoleCalculator\ConsoleCalculator\bin\Debug\ConsoleCalculator.exe
+C:\Users\Admin\Downloads\ConsoleCalculator-master\ConsoleCalculator\ConsoleCalculator\bin\Debug\ConsoleCalculator.pdb
+C:\Users\Admin\Downloads\ConsoleCalculator-master\ConsoleCalculator\ConsoleCalculator\bin\Debug\Facebook.xml
+C:\Users\Admin\Downloads\ConsoleCalculator-master\ConsoleCalculator\ConsoleCalculator\obj\Debug\ConsoleCalculator.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\ConsoleCalculator-master\ConsoleCalculator\ConsoleCalculator\obj\Debug\ConsoleCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\ConsoleCalculator-master\ConsoleCalculator\ConsoleCalculator\obj\Debug\ConsoleCalculator.exe
+C:\Users\Admin\Downloads\ConsoleCalculator-master\ConsoleCalculator\ConsoleCalculator\obj\Debug\ConsoleCalculator.pdb
